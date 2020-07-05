@@ -1,2 +1,6 @@
 # Unix-Account-Editor
-This is a nifty tool that you can use to set Unix Attributes for AD Objects to serve as a supplementary GUI for the already deprecated UNIX Account tab on the ADUC.
+Since the UNIX Account tab has already been deprecated from the ADUC on Windows Server 2012 R2 and above,
+The UNIX-Account-Editor is a nifty tool you can use that works the same way.
+
+You can stick with using the attribute editor if you like; the purpose of this tool was to help
+delegate tasks to non-technical users.
